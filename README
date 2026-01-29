@@ -1,0 +1,16 @@
+# Discord Active Developer Badge Bot
+
+A simple Discord bot to get the Active Developer Badge.
+
+## Setup
+1. Install [Node.js](https://nodejs.org/).
+2. Run `npm install discord.js` in your terminal.
+3. Replace Token and Client ID in `index.js`.
+4. Run `node index.js`.
+
+## How to get the badge
+1. Invite the bot to your server.
+2. Use the `/badge` command.
+3. Wait 24 hours.
+4. Claim it [here](https://discord.com/developers/active-developer).
+5. 
